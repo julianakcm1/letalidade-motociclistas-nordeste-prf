@@ -1,7 +1,7 @@
 # Letalidade de motociclistas nas rodovias federais do Nordeste
 
-Projeto final da disciplina de Ciência de Dados (UFAL).
-Professor: Bruno Pimentel.
+Projeto final da disciplina de Ciência de Dados (UFAL).<br>
+Professor: Bruno Pimentel.<br>
 Autora: Juliana Karla de C. M. Baracho.
 
 ## Pergunta
